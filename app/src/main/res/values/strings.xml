@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bell</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_text_account">Account</string>
+    <string name="online_status">online</string>
+    <string name="defaultPhoneNumber">+79999999999</string>
+    <string name="changePhoneNumberHint">Tap to change phonenumber</string>
+    <string name="username">Username</string>
+    <string name="changeBioHint">Tap to change your bio</string>
+    <string name="aboutText">Here is some information about user</string>
+    <string name="changeUsername">Tap to change username</string>
+    <string name="settings_menu_change_name">Change name</string>
+    <string name="settings_menu_exit">Exit</string>
+</resources>
